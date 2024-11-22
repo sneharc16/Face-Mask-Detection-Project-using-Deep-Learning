@@ -1,5 +1,5 @@
 # Project: face-mask-detect-cvdl
-This project was created by Manya Sachdeva, Shivya Khandpur and Sneha Roychowdhury as a part of our Internship Project at Indira Gandhi Delhi Technical University for Women, Delhi, under the Computer Vision and Deep Learning Branch
+This project was created by Sneha Roychowdhury as a part of our Internship Project at Indira Gandhi Delhi Technical University for Women, Delhi, under the Computer Vision and Deep Learning Branch
 
 ## Problem Identification
 In high-security areas, identifying individuals who wear masks for concealment is crucial for theft control and ensuring safety. Simultaneously, in regions facing infectious disease outbreaks like MPox or Coronavirus, monitoring mask usage is essential for public health management. Our ML model addresses both scenarios by accurately detecting whether a person is wearing a face mask. This dual functionality allows organizations to adapt the model to their specific needs, enhancing security measures or promoting health protocols as required.
